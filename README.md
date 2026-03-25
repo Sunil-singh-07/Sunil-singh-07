@@ -1,5 +1,22 @@
 # 💫 About Me:
-AI & Full-Stack Developer focused on building intelligent systems using LLMs, RAG, and modern web stacks.  <br>I enjoy turning complex AI ideas into real-world products.
+AI & Full-Stack Developer focused on building real-world AI systems using LLMs, computer vision, and voice interfaces.
+
+I specialize in integrating multiple AI models into practical applications (vision + speech + LLMs).
+
+## 🚀 Featured Projects
+
+### 👁️ Netra — AI Assistant for Visually Impaired
+- Real-time vision + voice system using YOLOv8, TFLite, Gemini Vision
+- 3-mode system (Analyse, Scan, Silent) with wake-word interaction
+- 97.3% accurate currency detection with hybrid AI pipeline
+
+### 🍳 Cookr — AI Cooking Voice Assistant
+- Full-stack voice-based cooking assistant using React + Groq
+- Real-time speech interaction with persona-based TTS
+
+### 📄 AI Resume Checker
+- Multi-step LLM pipeline analyzing resumes + job descriptions
+- Uses RAG + structured feedback system
 
 
 # 💻 Tech Stack:
